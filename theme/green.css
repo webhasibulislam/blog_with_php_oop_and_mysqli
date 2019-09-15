@@ -1,0 +1,34 @@
+.headersection {background: #007000 none repeat scroll 0 0;}
+.searchbtn input[type="text"] {border: 1px solid #457145;background: #629D62;color: #fff;}
+.searchbtn input[type="submit"] {border: 1px solid #457145;}
+.icon a {background: #629D62 none repeat scroll 0 0;}
+.navsection {background: none repeat scroll 0 0 #629D62;}
+.navsection ul li {border-left: 1px solid #C2FDC2;border-right: 1px solid #286328;}
+.contentsection {border: 1px solid #007000;}
+.maincontent {background: #629D62 none repeat scroll 0 0;border: 1px solid #007000;}
+.samepost h2, .about h2 {border-bottom: 2px solid #fff;color: #fff;}
+.samepost h4 a, .about h4 a {color: #fff;}
+.readmore a {background: #fff none repeat scroll 0 0;border: 1px solid #007000;color: #007000;}
+.readmore a:hover {color: #629D62;}
+.samesidebar h2 {background: #007000 none repeat scroll 0 0;border-bottom: 2px solid #fff;color: #fff;}
+.sidebar {background: #629D62 none repeat scroll 0 0;border: 1px solid #fff;}
+.samesidebar ul li a {color: #fff;}
+.samesidebar ul li {border-bottom: 1px dashed #fff;}
+.popular h3 a {color: #fff;}
+.popular h3 {border-bottom: 1px dashed #fff;}
+.popular p {color: #fff;}
+#pagination a {background: #007000;border: 1px solid #fff;color: #fff;}
+#pagination a {background: #116111;}
+.footersection {background: #007000;}
+.footermenu ul li a {color: #fff;}
+.footersection p {color: #fff;}
+.samepost img {border: 1px solid #007000;}
+.popular img {border: 1px solid #116111;}
+.samepost h2 a {color: #fff;}
+input[type="submit"] {background: #629D62  none repeat scroll 0 0;border: 1px solid #fff;}
+.searchbtn input[type="submit"]:hover {background: rgb(76, 134, 76) none repeat scroll 0 0;border: 1px solid #fff;}
+.relatedpost h2 {background: #007000 none repeat scroll 0 0;border-bottom: 2px solid #fff !important;color: #fff !important;}
+#pagination a:hover {background: rgb(106, 148, 106);color: #fff;}
+.samesidebar ul li a:hover {
+	color:  rgb(12, 61, 12);
+}
